@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-adidas",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo Adidas depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-adidas",
+    "bon-de-reduction-adidas",
+    "coupon-adidas",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/adidas.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-adidas.git"
+  }
+}
